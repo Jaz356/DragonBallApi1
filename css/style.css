@@ -2,6 +2,7 @@ header:hover{
     background-color: blueviolet;
     margin: 0;
     border: 0;
+    text-align: center;
 }
 .intro{
     text-align: center;

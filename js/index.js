@@ -14,10 +14,10 @@ async function fetchCharactersJson() {
     }
 }
 
-function createItemsCard ({id, name, brand, img, price, stars}){
+function createCharacterCard ({id, name, ki, maxKi, race, gender, img, affiliation}){
     return `
         <div class="card m-4" style="width: 30rem">
-            <img src="${img}" class="card-img-top" alt="Person wearing a ${brand} ${name}.">
+            <img src="${img}" class="card-img-top" alt="person standing with ${ki} ${}.">
             <div class="card-body">
                 <div class="d-flex justify-content-between">
                     <h5 class="card-title">${name}</h5>
