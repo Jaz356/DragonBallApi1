@@ -1,6 +1,6 @@
 const requestURL = './json/index.json';
 
-async function fetchCharacterJson() {
+async function fetchCharactersJson() {
     try{
         const response = await fetch(requestURL);
         if (!response.ok){

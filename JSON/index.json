@@ -483,7 +483,7 @@
   "deletedAt": null,
    },
    {
-    "id": 63,
+    "id": 45,
   "name": "North Kaio (Kaito)",
   "ki": "6,000",
   "maxKi": "6,000",
@@ -494,7 +494,7 @@
   "deletedAt": null,
    },
    {
-    "id": 64,
+    "id": 46,
     "name": "Android 18",
     "ki": "280,000,000",
     "maxKi": "300,000,000",
@@ -505,7 +505,7 @@
   "deletedAt": null,
    },
 {
-"id": 65,
+"id": 47,
   "name": "Gogeta",
   "ki": "250 Billion",
   "maxKi": "15 septillion",
@@ -516,7 +516,7 @@
   "deletedAt": null,
 },
 {
-    "id": 66,
+    "id": 48,
     "name": "Vegetto",
     "ki": "180 Billion",
     "maxKi": "10.8 Septillion",
@@ -527,7 +527,7 @@
     "deletedAt": null,
 },
 {
-"id":67,
+"id": 49,
 "name":"Janemba",
 "ki":"15 Billion",
 "maxKi":"75 Billion",
@@ -539,7 +539,7 @@
 },
 {
 
-    "id": 68,
+    "id": 50,
     "name": "Broly",
     "ki": "7 quadrillion",
     "maxKi": "11.2 Septillion",
@@ -550,7 +550,7 @@
     "deletedAt": null,
 },
 {
-"id": 69,
+"id": 51,
   "name": "South Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -561,7 +561,7 @@
   "deletedAt": null,
 },
 {
-"id": 70,
+"id": 52,
   "name": "East Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -572,7 +572,7 @@
   "deletedAt": null,
 },
 {
-    "id": 71,
+    "id": 53,
     "name": "Kaio del Oeste",
     "ki": "unknown",
     "maxKi": "unknown",
@@ -583,7 +583,7 @@
     "deletedAt": null,
 },
 {
-"id": 72,
+"id": 54,
   "name": "Grand Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -594,7 +594,7 @@
   "deletedAt": null,
 },
 {
-"id": 73,
+"id": 55,
   "name": "Kaio-shin of the East",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -605,7 +605,7 @@
   "deletedAt": null,
 },
 {
-    "id": 74,
+    "id": 56,
     "name": "Northern Kaiō-shin",
     "ki": "unknown",
     "maxKi": "unknown",
@@ -616,7 +616,7 @@
     "deletedAt": null,
 },
 {
-"id": 75,
+"id": 57,
   "name": "South Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -627,7 +627,7 @@
   "deletedAt": null,
 },
 {
-"id": 76,
+"id": 58,
   "name": "Western Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -638,7 +638,7 @@
   "deletedAt": null,
 },
 {
-"id": 77,
+"id": 59,
   "name": "Great Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -649,7 +649,7 @@
   "deletedAt": null,
 },
 {
-"id": 78,
+"id": 60,
   "name": "Kibito",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -661,11 +661,11 @@
 },
 
 "meta": {
-    "totalItems": 58,
+    "totalItems": 60,
     "itemCount": 10,
     "itemsPerPage": 10,
     "totalPages": 6,
-    "currentPage": 1
+    "currentPage": 1,
 },
 "links": {
     "first": "https://dragonball-api.com/api/characters?limit=10",
