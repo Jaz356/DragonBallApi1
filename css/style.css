@@ -6,5 +6,8 @@ header:hover{
 }
 .intro{
     text-align: center;
-    
+     
+}
+.navbar:hover{
+    background-color: blueviolet;
 }

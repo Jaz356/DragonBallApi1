@@ -1,6 +1,8 @@
 const requestURL = './json/index.json';
 
-async function fetchCharactersJson() {
+async function fetchPlanetsJson(requestURL) {
+async function fetchCharactersJson(requestURL) {
+    
     try{
         const response = await fetch(requestURL);
         if (!response.ok){
@@ -14,20 +16,20 @@ async function fetchCharactersJson() {
     }
 }
 
-function createCharacterCard ({id, name, ki, maxKi, race, gender, img, affiliation}){
+function createCharacterCard ({id, gender, image, name, ki, maxKi, race, affiliation}){
     return `
         <div class="card m-4" style="width: 30rem">
-            <img src="${img}" class="card-img-top" alt="person standing with ${ki} ${}.">
+            <img src="${image}" class="card-img-top" alt="characters stats ${ki} ${maxKi}.">
             <div class="card-body">
                 <div class="d-flex justify-content-between">
                     <h5 class="card-title">${name}</h5>
-                    <div class="d-flex">
+                    <div class="d-flex"> <p>${gender}</p>
                         <i class="bi bi-star-fill me-2"></i>
-                        <p>${stars}</p>
+                        <p>${affiliation}</p>
                     </div>
                 </div>
-                <p class="card-text mb-4">${brand}</p>
-                <h3>${price} €</h3>
+                <p class="card-text mb-4">${race}</p>
+                <h3>${id} €</h3>
             </div>
         </div>
     `;
