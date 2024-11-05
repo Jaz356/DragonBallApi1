@@ -198,7 +198,7 @@
             "deletedAt": null,
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Bardock",
             "ki": "450.000",
             "maxKi": "180.000.000",
@@ -210,7 +210,7 @@
         },
         {
          
-       "id": 19,
+       "id": 20,
        "name": "Launch",
        "ki": "0",
        "maxKi": "0",
@@ -221,7 +221,7 @@
        "deletedAt": null,
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Mr. Satan",
         "ki": "450",
         "maxKi": "5,000",
@@ -232,7 +232,7 @@
         "deletedAt": null,
     },
     {
-     "id": 21,
+     "id": 22,
   "name": "From",
   "ki": "3.200",
   "maxKi": "3.200",
@@ -243,7 +243,7 @@
   "deletedAt": null,             
     },
      {
-"id": 22,
+"id": 23,
   "name": "Android 17",
   "ki": "320,000,000",
   "maxKi": "40 Quintillion",
@@ -254,7 +254,7 @@
   "deletedAt": null,
      },
      {
-"id": 23,
+"id": 24,
   "name": "Android 16",
   "ki": "440,000,000",
   "maxKi": "440,000,000",
@@ -266,7 +266,7 @@
 
      },
      {
-        "id": 24,
+        "id": 25,
         "name": "Android 19",
         "ki": "122,000,000",
         "maxKi": "160,000,000",
@@ -278,7 +278,7 @@
       
      },
      {
-     "id": 25,
+     "id": 26,
   "name": "Android 20 (Dr. Gero)",
   "ki": "128,000,000",
   "maxKi": "158,100,000",
@@ -289,7 +289,7 @@
   "deletedAt": null,
      },
     {
-        "id": 26,
+        "id": 27,
         "name": "Android 13",
         "ki": "195,000,000",
         "maxKi": "562,500,000",
@@ -300,7 +300,7 @@
         "deletedAt": null,
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Android 14",
         "ki": "192,500,000",
         "maxKi": "192,500,000",
@@ -311,7 +311,7 @@
         "deletedAt": null,
     },
     {
-"id": 28,
+"id": 29,
   "name": "Android 15",
   "ki": "175,000,000",
   "maxKi": "175,000,000",
@@ -323,7 +323,7 @@
   "deletedAt": null,
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "Nail",
         "ki": "42.000 ",
         "maxKi": "42.000",
@@ -334,7 +334,7 @@
         "deletedAt": null,
     },
     {
-     "id": 30,
+     "id": 31,
   "name": "Raditz",
   "ki": "1,500 ",
   "maxKi": "1,500 ",
@@ -345,7 +345,7 @@
   "deletedAt": null,
     },
     {
-        "id": 31,
+        "id": 32,
         "name": "Babidi",
         "ki": "0",
         "maxKi": "0",
@@ -356,7 +356,7 @@
         "deletedAt": null,
     },
     {
-     "id": 32,
+     "id": 33,
   "name": "Majin Buu",
   "ki": "8 Billion",
   "maxKi": "100 Trillion",
@@ -367,7 +367,7 @@
   "deletedAt": null,
     },
     {
-        "id": 33,
+        "id": 34,
         "name": "Bills",
         "ki": "102 Billion",
         "maxKi": "100 septillion",
@@ -378,7 +378,7 @@
   "deletedAt": null,
     },
     {
-     "id": 34,
+     "id": 35,
   "name": "Whis",
   "ki": "15 septillion",
   "maxKi": "110 septillion",
@@ -389,7 +389,7 @@
   "deletedAt": null,
     },
    {
-    "id": 35,
+    "id": 36,
   "name": "Zeno",
   "ki": "500 Septillion",
   "maxKi": "500 Septillion",
@@ -444,7 +444,7 @@
   "deletedAt": null,
    },
    {
-  "id": 42,
+  "id": 41,
   "name": "Marcarita ",
   "ki": "10 septillion",
   "maxKi": "99.5 septillion",
@@ -455,7 +455,7 @@
   "deletedAt": null,
    },
    {
-    "id": 43,
+    "id": 42,
     "name": "Vermoudh",
     "ki": "9.9 Septillion",
     "maxKi": "100 septillion",
@@ -466,7 +466,7 @@
     "deletedAt": null,
    },
    {
-   "id": 44,
+   "id": 43,
   "name": "Grand Priest ",
   "ki": "969 Googolplex",
   "maxKi": "969 Googolplex",
@@ -477,7 +477,7 @@
   "deletedAt": null,
    },
    {
-    "id": 45,
+    "id": 44,
   "name": "North Kaio (Kaito)",
   "ki": "6,000",
   "maxKi": "6,000",
@@ -488,7 +488,7 @@
   "deletedAt": null,
    },
    {
-    "id": 46,
+    "id": 45,
     "name": "Android 18",
     "ki": "280,000,000",
     "maxKi": "300,000,000",
@@ -499,7 +499,7 @@
   "deletedAt": null,
    },
 {
-"id": 47,
+"id": 46,
   "name": "Gogeta",
   "ki": "250 Billion",
   "maxKi": "15 septillion",
@@ -510,7 +510,7 @@
   "deletedAt": null,
 },
 {
-    "id": 48,
+    "id": 47,
     "name": "Vegetto",
     "ki": "180 Billion",
     "maxKi": "10.8 Septillion",
@@ -521,7 +521,7 @@
     "deletedAt": null,
 },
 {
-"id": 49,
+"id": 48,
 "name":"Janemba",
 "ki":"15 Billion",
 "maxKi":"75 Billion",
@@ -533,7 +533,7 @@
 },
 {
 
-    "id": 50,
+    "id": 49,
     "name": "Broly",
     "ki": "7 quadrillion",
     "maxKi": "11.2 Septillion",
@@ -544,7 +544,7 @@
     "deletedAt": null,
 },
 {
-"id": 51,
+"id": 50,
   "name": "South Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -555,7 +555,7 @@
   "deletedAt": null,
 },
 {
-"id": 52,
+"id": 51,
   "name": "East Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -566,7 +566,7 @@
   "deletedAt": null,
 },
 {
-    "id": 53,
+    "id": 52,
     "name": "Kaio del Oeste",
     "ki": "unknown",
     "maxKi": "unknown",
@@ -577,7 +577,7 @@
     "deletedAt": null,
 },
 {
-"id": 54,
+"id": 53,
   "name": "Grand Kaio",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -588,7 +588,7 @@
   "deletedAt": null,
 },
 {
-"id": 55,
+"id": 54,
   "name": "Kaio-shin of the East",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -599,7 +599,7 @@
   "deletedAt": null,
 },
 {
-    "id": 56,
+    "id": 55,
     "name": "Northern Kaiō-shin",
     "ki": "unknown",
     "maxKi": "unknown",
@@ -610,7 +610,7 @@
     "deletedAt": null,
 },
 {
-"id": 57,
+"id": 56,
   "name": "South Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -621,7 +621,7 @@
   "deletedAt": null,
 },
 {
-"id": 58,
+"id": 57,
   "name": "Western Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -632,7 +632,7 @@
   "deletedAt": null,
 },
 {
-"id": 59,
+"id": 58,
   "name": "Great Kaio-shin",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -643,7 +643,7 @@
   "deletedAt": null,
 },
 {
-"id": 60,
+"id": 59,
   "name": "Kibito",
   "ki": "unknown",
   "maxKi": "unknown",
@@ -655,7 +655,7 @@
 },
 
 "meta": {
-    "totalItems": 60,
+    "totalItems": 59,
     "itemCount": 10,
     "itemsPerPage": 10,
     "totalPages": 6,

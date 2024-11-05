@@ -1,7 +1,7 @@
-const requestURL = './json/index.json';
-
-async function fetchPlanetsJson(requestURL) {
-async function fetchCharactersJson(requestURL) {
+   async function fetchCharactersJson(requestURL) {
+   const characters = document.getElementById (`characters`)
+   const Characters = await fetchApiJson(requestCharacterUrl)
+}
     
     try{
         const response = await fetch(requestURL);
@@ -9,7 +9,7 @@ async function fetchCharactersJson(requestURL) {
             throw new Error(`An error occured. Json request failed ${response.status}.`)
         }
         return await response.json();
-    }
+    } 
     catch (error){
         console.error('An error occured. Null Json', error)
         return null;
