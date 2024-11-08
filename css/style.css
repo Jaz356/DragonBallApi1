@@ -1,16 +1,7 @@
-header:hover{
-    background-color: blueviolet;
-    margin: 0;
-    border: 0;
-    text-align: center;
+.card img{
+ width: 89px;
+ background-color: blueviolet;
 }
-.intro{
-    text-align: center;
-     
-}
-.navbar:hover{
-    background-color: blueviolet;
-}
-footer{
-    background-color: blueviolet;
+.card-body:hover, .card-img-top:hover{
+   background-color: blueviolet;
 }
